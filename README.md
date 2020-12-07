@@ -1,5 +1,20 @@
-# test
+# test-1
+This specification is developed on GitHub with the help of the ECMAScript community. There are a number of ways to contribute to the development of this specification:
 
+GitHub Repository: https://github.com/tc39/ecma262
+Issues: All Issues, File a New Issue
+Pull Requests: All Pull Requests, Create a New Pull Request
+Test Suite: Test262
+Editors:
+Jordan Harband (@ljharb)
+Shu-yu Guo (@_shu)
+Michael Ficarra (@smooshMap)
+Kevin Gibbons (@bakkoting)
+Community:
+Discourse: https://es.discourse.group
+IRC: #tc39 on freenode
+Mailing List Archives: https://esdiscuss.org/
+Refer to the colophon for more information on how this document is created.
 
 Description
 slice() extracts the text from one string and returns a new string. Changes to the text in one string do not affect the other string.
